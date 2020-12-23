@@ -8,7 +8,7 @@ import ua.mainacademy.model.Triangle;
 import java.util.Set;
 import java.util.TreeSet;
 
-import static ua.mainacademy.model.AreaComparator.getMinAndMaxShapesArea;
+import static ua.mainacademy.service.AreaCompareService.getMinAndMaxShapesArea;
 
 public class Application {
     public static void main(String[] args) {

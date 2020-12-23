@@ -1,8 +1,10 @@
-package ua.mainacademy.model;
+package ua.mainacademy.service;
+
+import ua.mainacademy.model.Shape;
 
 import java.util.Set;
 
-public class AreaComparator {
+public class AreaCompareService {
 
     public static int areaComparator(Object o1, Object o2) {
         Shape shape1 = (Shape) o1;

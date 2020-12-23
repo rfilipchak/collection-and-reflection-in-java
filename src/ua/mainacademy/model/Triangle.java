@@ -1,6 +1,6 @@
 package ua.mainacademy.model;
 
-import static ua.mainacademy.model.AreaComparator.areaComparator;
+import static ua.mainacademy.service.AreaCompareService.areaComparator;
 
 public class Triangle implements Shape {
 
